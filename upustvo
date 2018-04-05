@@ -1,0 +1,4 @@
+prvo otvorimo 
+localhost/1php/chat/user1.php
+kako bi startovalo sesiju sa korisnikom 1 i onda se vratimo na pocetnu stranicu
+to ponoviti i u ostala dva browsera kako bi na svim bio razlicit korisnik
